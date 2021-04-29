@@ -1,0 +1,4 @@
+87c87
+<             ???.zap(heat_ray_strength);
+---
+>             alien.zap(heat_ray_strength);
